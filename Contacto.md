@@ -4,9 +4,9 @@ Llene este formulario y le responderemos lo mas pronto se nos sea posible
 <form action="https://formspree.io/f/mbjwadag" method="post">
   
   <label for="name">Nombres:</label><br>
-  <input type="text" id="lname" name="name" value= "Tus Nombres"><br>
+  <input type="text" id="lname" name="name" value= ""><br>
   <label for="lname">Apellidos:</label><br>
-  <input type="text" id="lname" name="lname" value= "Tus Apellidos"><br>
+  <input type="text" id="lname" name="lname" value= ""><br>
    <label for="name">Número de contacto:</label><br>
   <input type="text" id="lname" name="correo" value= ""><br>
    <label for="name">Correo Electronico:</label><br>
